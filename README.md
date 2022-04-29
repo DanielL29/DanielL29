@@ -2,9 +2,10 @@
 
 ## Whats'up dude! I’m Daniel 👋 
 ### I'm studing now at Driven Education to be a FullStack Developer
+- You can call me as **Dan**!
 - 👀 I’m interested in full-stack and front-end development
 - 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on front end area
+- 💞️ I’m looking to collaborate on full-stack and front-end area
 
 ### Contact me on:
 
