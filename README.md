@@ -1,5 +1,7 @@
 <img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif?raw=true" width="420" height="320" />
+
 <br />
+
 ## Whats'up dude! I’m Daniel 👋 
 ### I'm studing now at Driven Education to be a FullStack Developer
 - You can call me as **Dan**!
