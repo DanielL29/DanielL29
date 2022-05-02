@@ -26,9 +26,9 @@
 <br />
 
 ## Github Stats & Most Used Languages
-<img align="left" style="margin: 20px;" height="200px" src="https://github-readme-stats.vercel.app/api?username=DanielL29&theme=radical" />
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=DanielL29&theme=radical" />
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&theme=radical" />
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&layout=compact&langs_count=7&theme=radical" />
+<!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&layout=compact&langs_count=7&theme=radical" /> -->
 
 
 
