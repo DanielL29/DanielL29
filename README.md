@@ -12,7 +12,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lucas-ederli-725289222)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielederli/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielnatsufire@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/Dan🎼/)
 
 ### Languages and Frameworks i use:
 
@@ -22,7 +21,8 @@
 <img alt="CSS" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+css-1324451270074695333.png" />
 <img alt="REACT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" />
 <img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
-<img alt="VS Code" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="VSCODE" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="GIT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/git+original-1324760546369298016.png" />
 
 <br />
 <br />
