@@ -13,7 +13,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielederli/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielnatsufire@gmail.com)
 
-### Languages and Frameworks i use:
+### Languages and Tools:
 
 <img alt="JS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" />
 <img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
