@@ -23,6 +23,12 @@
 <img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
 <img alt="VSCODE" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="GIT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/git+original-1324760546369298016.png" />
+<img alt="STYLED-COMPONENTS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+styled-1324451495304522233.png" />
+<img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
+<img alt="EXPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/express+original-1324760541654534922.png" />
+<img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
+<img alt="TRELLO" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/trello-1330289861633868130.png" />
+<img alt="SLACK" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/slack-1330289859031924005.png" />
 
 <br />
 <br />
