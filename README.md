@@ -36,14 +36,14 @@
 <img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
 <img alt="EXPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/express+original-1324760541654534922.png" />
 <img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
-<img alt="PRISMA" align="left" width="40px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" />
+<img alt="PRISMA" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" />
 <img alt="JEST" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" />
 
 <br />
 
 ### *DevOps*
 
-<img alt="DOCKER" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/Docker-1329545817374471792.png" />
+<img alt="DOCKER" align="left" width="38px" src="https://icons-for-free.com/iconfiles/png/512/Docker-1329545817374471792.png" />
 <img alt="AWS" align="left" width="40px" src="https://icons-for-free.com/iconfiles/png/512/AWS-1329545813726283050.png" />
 
 <br />
