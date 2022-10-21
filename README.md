@@ -19,24 +19,41 @@
 
 ### Languages and Tools:
 
+### *Frontend*
 <img alt="JS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" />
-<img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
 <img alt="HTML" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+html-1324451320119191066.png" />
 <img alt="CSS" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+css-1324451270074695333.png" />
 <img alt="REACT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" />
-<img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
-<img alt="VSCODE" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="GIT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/git+original-1324760546369298016.png" />
 <img alt="STYLED-COMPONENTS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+styled-1324451495304522233.png" />
+<img alt="CYPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+cypress-1324451272469682690.png" />
+
+<br />
+
+### *Backend* 
+
+<img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
+<img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
 <img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
 <img alt="EXPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/express+original-1324760541654534922.png" />
 <img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
+<img alt="PRISMA" align="left" width="40px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" />
+<img alt="JEST" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" />
+
+<br />
+
+### *DevOps*
+
+<img alt="DOCKER" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/Docker-1329545817374471792.png" />
+<img alt="AWS" align="left" width="40px" src="https://icons-for-free.com/iconfiles/png/512/AWS-1329545813726283050.png" />
+
+<br />
+
+### *Tools*
+
 <img alt="TRELLO" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/trello-1330289861633868130.png" />
 <img alt="SLACK" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/slack-1330289859031924005.png" />
-<img alt="PRISMA" align="left" width="40px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" />
-<img alt="AWS" align="left" width="40px" src="https://icons-for-free.com/iconfiles/png/512/AWS-1329545813726283050.png" />
-<img alt="JEST" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" />
-<img alt="CYPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+cypress-1324451272469682690.png" />
+<img alt="VSCODE" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="GIT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/git+original-1324760546369298016.png" />
 
 <br />
 <br />
