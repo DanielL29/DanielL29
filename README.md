@@ -3,12 +3,12 @@
 ## Whats'up dude! I’m Daniel 👋 
 ### I'm studing now at Driven Education to be a FullStack Developer
 - You can call me as **Dan**!
-- 👀 I’m interested in full-stack or either of the two back or front-end development
-- 🌱 I’m currently learning some of devops docker and aws, and OOP
+- 👀 I’m interested in full-stack or either of the two, back or front-end development
+- 🌱 I’m currently learning some of devops like docker and aws, and OOP to increase my code
 - 💞️ I’m looking to collaborate on a B2B or B2C company in any type of development, fullstack, front or back
-- 💻 I like to play some games in computer too you can find me on Steam or Epic Games as rearmostchunck
-- 🎸 If you like to listen to music me too! I like to listen and play music of any genre and i'm also formed in jazz and mpb by the music conservatory of my city
-- 🍺 And i could not miss about drink some beer (favorite: Amstel) and make small talk you can contact me on the links below
+- 💻 I like to play some games in computer too. You can find me on Steam or Epic Games as rearmostchunck
+- 🎸 If you like to listen to music me too! I like to listen and play music of any genre, and i'm also formed in jazz and mpb by the music conservatory of my city
+- 🍺 And i could not miss about drink some beer (favorite: Amstel) and make small talk. You can contact me on the links below
 
 ### Contact me on:
 
