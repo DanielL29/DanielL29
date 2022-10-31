@@ -33,11 +33,16 @@
 
 <img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
 <img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
-<img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
 <img alt="EXPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/express+original-1324760541654534922.png" />
-<img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
 <img alt="PRISMA" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" />
 <img alt="JEST" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" />
+
+<br />
+
+### *Banco de Dados*
+
+<img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
+<img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
 
 <br />
 
