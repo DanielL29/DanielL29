@@ -39,7 +39,7 @@
 
 <br />
 
-### *Banco de Dados*
+### *Databases*
 
 <img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
 <img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
