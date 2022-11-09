@@ -26,6 +26,8 @@
 <img alt="REACT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" />
 <img alt="STYLED-COMPONENTS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+styled-1324451495304522233.png" />
 <img alt="CYPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+cypress-1324451272469682690.png" />
+<img alt="TAILWINDCSS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/css+tailwind-1330884282817975295.png" />
+<img alt="MATERIALUI" align="left" width="35px" src="https://mui.com/static/logo.png" />
 
 <br />
 
@@ -43,6 +45,7 @@
 
 <img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
 <img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
+<img alt="REDIS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/redis+original-1324760569511622860.png" />
 
 <br />
 
