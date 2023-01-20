@@ -1,23 +1,22 @@
 <img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif?raw=true" width="420" height="320" />
 
-## Whats'up dude! I’m Daniel 👋 
-### I'm studing now at Driven Education to be a FullStack Developer
-- You can call me as **Dan**!
-- 👀 I’m interested in full-stack or either of the two, back or front-end development
-- 📖 I’m currently learning some of devops like docker and aws, and OOP to increase my code
-- 💞🏢 I’m looking to collaborate on a B2B or B2C company in any type of development, fullstack, front or back
-- 💻🎮 I like to play some games in computer too. You can find me on Steam or Epic Games as rearmostchunck
-- 🎸 If you like to listen to music me too! I like to listen and play music of any genre, and i'm also formed in jazz and mpb by the music conservatory of my city
-- 🍺 And i could not miss about drink some beer (favorite: Amstel) and make small talk. You can contact me on the links below
+## Seja bem vindo! Eu sou o Daniel👋 
+### Estou em busca do meu primeiro emprego como Desenvolvedor Fullstack ou Desenvolvedor Frontend
+- Você pode me chamar de **Dan**!
+- 📖 Atualmente estou estudando um pouco de POO e arquiteturas e pretendo estudar React Native.
+- 💞🏢 Pretendo ingressar primeiramente em uma SoftwareHouse porém estou apto para seguir em qualquer segmento!
+- 💻🎮 Geralmente gosto de jogar jogos, pode me encontrar na Steam ou Epic Games como rearmostchunck.
+- 🎸 Curte ouvir um som? Eu curto demais! Ouço qualquer tipo de música e inclusive toco também, sou formado em Jazz e MPB no conservatório de minha cidade.
+- 💬 Também curto tomar uma cerveja e conversar, então caso queira me contatar os links estão aqui embaixo 👇
 
-### Contact me on:
+### Redes de contato:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lucas-ederli-725289222)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielederli29@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daniell.ederli@hotmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Dan🎼#9390)
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 ### *Frontend*
 <img alt="JS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/javascript+original-1324760550805182024.png" />
@@ -41,7 +40,7 @@
 
 <br />
 
-### *Databases*
+### *Banco de Dados*
 
 <img alt="POSTGRESQL" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/postgresql+original-1324760555477678132.png" />
 <img alt="MONGODB" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/mongodb-1330289846047266747.png" />
@@ -56,7 +55,7 @@
 
 <br />
 
-### *Tools*
+### *Ferramentas*
 
 <img alt="TRELLO" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/trello-1330289861633868130.png" />
 <img alt="SLACK" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/slack-1330289859031924005.png" />
@@ -66,7 +65,7 @@
 <br />
 <br />
 
-## Github Stats & Most Used Languages
+## Github Stats & Linguagens mais usadas
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=DanielL29&theme=radical" />
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&theme=radical" />
 <!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&layout=compact&langs_count=7&theme=radical" /> -->
