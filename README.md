@@ -23,8 +23,9 @@
 <img alt="HTML" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+html-1324451320119191066.png" />
 <img alt="CSS" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+css-1324451270074695333.png" />
 <img alt="REACT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/react+original-1324760565814167828.png" />
+<img alt="NEXT" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/NextJS-1324888744726908747.png" />
 <img alt="STYLED-COMPONENTS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+styled-1324451495304522233.png" />
-<img alt="CYPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+cypress-1324451272469682690.png" />
+<img alt="CYPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/cypress-1324440144114984250.png" />
 <img alt="TAILWINDCSS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/css+tailwind-1330884282817975295.png" />
 <img alt="MATERIALUI" align="left" width="35px" src="https://mui.com/static/logo.png" />
 
@@ -35,8 +36,10 @@
 <img alt="TS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/typescript+original-1324760574003158198.png" />
 <img alt="NODEJS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/nodejs+original-1324760553994193787.png" />
 <img alt="EXPRESS" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/express+original-1324760541654534922.png" />
+<img alt="NEST" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+nestjs-1324451393575753824.png" />
 <img alt="PRISMA" align="left" width="35px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+light+prisma-1324451365475006031.png" />
 <img alt="JEST" align="left" width="30px" src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+jest-1324451331240398710.png" />
+<img alt="OOP" align="left" width="50px" src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" />
 
 <br />
 
