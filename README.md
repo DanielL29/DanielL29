@@ -1,10 +1,9 @@
 <img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif?raw=true" width="420" height="320" />
 
 ## Seja bem vindo! Eu sou o Daniel👋 
-### Estou em busca do meu primeiro emprego como Desenvolvedor Fullstack ou Desenvolvedor Frontend
+### Fullstack Developer Jr na Trinks
 - Você pode me chamar de **Dan**!
-- 📖 Atualmente estou estudando um pouco de POO e arquiteturas e pretendo estudar React Native.
-- 💞🏢 Pretendo ingressar primeiramente em uma SoftwareHouse porém estou apto para seguir em qualquer segmento!
+- 📖 Atualmente estou trabalhando na Trinks uma empreza voltada para o ramo da beleza.
 - 💻🎮 Geralmente gosto de jogar jogos, pode me encontrar na Steam ou Epic Games como rearmostchunck.
 - 🎸 Curte ouvir um som? Eu curto demais! Ouço qualquer tipo de música e inclusive toco também, sou formado em Jazz e MPB no conservatório de minha cidade.
 - 💬 Também curto tomar uma cerveja e conversar, então caso queira me contatar os links estão aqui embaixo 👇
