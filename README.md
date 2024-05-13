@@ -6,7 +6,7 @@
 - 📖 Atualmente estou trabalhando na Trinks uma empreza voltada para o ramo da beleza.
 - 💻🎮 Geralmente gosto de jogar jogos, pode me encontrar na Steam ou Epic Games como rearmostchunck.
 - 🎸 Curte ouvir um som? Eu curto demais! Ouço qualquer tipo de música e inclusive toco também, sou formado em Jazz e MPB no conservatório de minha cidade.
-- 💬 Também curto tomar uma cerveja e conversar, então caso queira me contatar os links estão aqui embaixo 👇
+- 💬 E caso queira me contatar os links estão aqui embaixo 👇
 
 ### Redes de contato:
 
