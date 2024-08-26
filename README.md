@@ -1,23 +1,23 @@
 
-## Seja bem vindo! Eu sou o Daniel👋 
+## Welcome back! I'm Daniel👋 
 
 <img align="right" alt="GIF" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1621705542437/4shUyEk2t.gif?raw=true" width="420" height="320" />
 
-### Fullstack Developer na Trinks
-- Você pode me chamar de **Dan**!
-- 🏢 Atualmente estou trabalhando na Trinks uma empreza voltada para o ramo da beleza.
-- 📖 Busco me aperfeiçoar conciliando meu tempo de trabalho também com estudos para nunca ficar parado e poder aprender coisas novas, assim podendo aplica-las em projetos pessoais ou no cotidiano da empresa.
-- 💻 Atualmente estou trabalhando num projeto de autoatendimento para ser utilzado em tótens e tablets nos estabelecimentos para o consumidor B2C.
-- 💬 E caso queira me contatar os links estão aqui embaixo 👇
+### Fullstack Developer
+- You can call me **Dan**!
+- 🏢 I'm currently working at Trinks, a beauty company.
+- 📖 I try to improve myself by combining my work time with my studies so that I never stand still and can learn new things, so that I can apply them to personal projects or to the day-to-day running of the company.
+- 💻 I'm currently working on a self-service project to be used on tablets and totems in establishments for B2C consumers.
+- 💬 And if you want to contact me, the links are below 👇
 
-### Redes de contato:
+### Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lucas-ederli-725289222)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielederli29@gmail.com)
 [![Hotmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daniell.ederli@hotmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Dan🎼#9390)
 
-### Linguagens e Ferramentas:
+### Languages and Tools:
 
 ### *Frontend*
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,7 +50,7 @@
 
 <br />
 
-### *Banco de Dados*
+### *Databases*
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -68,7 +68,7 @@
 
 <br />
 
-### *Ferramentas*
+### *Tools*
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -83,7 +83,7 @@
 <br />
 <br />
 
-## Github Stats & Linguagens mais usadas
+## Github Stats & Most used languages
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=DanielL29&theme=radical" />
 <!-- <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&theme=radical" /> -->
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielL29&layout=compact&langs_count=7&theme=radical" />
